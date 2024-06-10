@@ -54,6 +54,8 @@ let negValue = -value
 
 console.log(+true);// output= 1
 
+//=== strict check with datatype
 
+console.log("2"===2);
 
-
+// This type of conversion shoyld be avoid in the code

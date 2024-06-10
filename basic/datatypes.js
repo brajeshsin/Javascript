@@ -21,3 +21,27 @@ let isLogedIn= false
 console.log(typeof age);
 console.log(typeof undefined); // undefined
 console.log(typeof null); //object 
+
+
+// *************************************Data Types***********************
+
+//Primitive- 7 types-
+// 1. String 2. Number 3.Boolean 4.null 5. undefined 6. Symbol 7. BigInt
+
+//Reference type(Non primitive):- Array, Objects, Functions
+
+const heros=["shaktiman","naagraj","batman"];//array
+
+/*
+let myObj={
+    name: "hitesh",
+    age:23,
+}
+    */
+
+const myFunction= function(){
+    console.log("Hello world");
+}
+
+
+
